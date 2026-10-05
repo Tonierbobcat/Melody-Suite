@@ -1,33 +1,30 @@
-# Melody-Suite
+# Melody Suite
 
-## Required Dependency
+---
 
-> **⚠️ `com.loficostudios.melody-suite-core` is REQUIRED.**
->
-> All other Melody-Unity-Suite packages depend on Core
+> ⚠️ **Prerequisite:** All packages in the suite require **Melody Suite Core** (`com.loficostudios.melody-suite-core`) to function. Install Core before adding any optional modules.
 
-* **`com.loficostudios.melody-suite-core` — REQUIRED**
+---
 
-```bash
-https://github.com/Tonierbobcat/com.loficostudios.melody-suite-core.git
-```
+## Packages & Git URLs
 
-## Packages
+| Package | Package Identifier | Git URL | Notes |
+| :--- | :--- | :--- | :--- |
+| **Core** | `com.loficostudios.melody-suite-core` | `https://github.com/Tonierbobcat/com.loficostudios.melody-suite-core.git` | **Required** |
+| **Movement** | `com.loficostudios.melody-suite-movement` | `https://github.com/Tonierbobcat/com.loficostudios.melody-suite-movement.git` | Optional |
+| **Interaction** | `com.loficostudios.melody-suite-interaction` | `https://github.com/Tonierbobcat/com.loficostudios.melody-suite-interaction.git` | Optional |
+| **Inventory** | `com.loficostudios.melody-suite-inventory` | `https://github.com/Tonierbobcat/com.loficostudios.melody-suite-inventory.git` | Optional |
+| **Outfit** | `com.loficostudios.outfit` | `https://github.com/Tonierbobcat/com.loficostudios.outfit.git` | Optional |
+| **Dialogue** | `com.loficostudios.dialogue` | `https://github.com/Tonierbobcat/com.loficostudios.dialogue.git` | Requires [Ink](https://github.com/inkle/ink-unity-integration) |
 
-* `com.loficostudios.melody-suite-movement`
+---
 
-```bash
-https://github.com/Tonierbobcat/com.loficostudios.melody-suite-movement.git
-```
+## Installation
 
-* `com.loficostudios.melody-suite-interaction`
+### 1. Standard Package Installation
+To install any package in Unity:
+1. Open **Window** > **Package Manager**.
+2. Click the **`+`** icon in the upper-left corner and select **Add package from git URL...**
+3. Paste the desired Git URL from the table above and click **Add**.
 
-```bash
-https://github.com/Tonierbobcat/com.loficostudios.melody-suite-interaction.git
-```
-
-* `com.loficostudios.melody-suite-inventory`
-
-```bash
-https://github.com/Tonierbobcat/com.loficostudios.melody-suite-inventory.git
-```
+---
