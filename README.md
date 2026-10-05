@@ -14,8 +14,8 @@
 | **Movement** | `com.loficostudios.melody-suite-movement` | `https://github.com/Tonierbobcat/com.loficostudios.melody-suite-movement.git` | Optional |
 | **Interaction** | `com.loficostudios.melody-suite-interaction` | `https://github.com/Tonierbobcat/com.loficostudios.melody-suite-interaction.git` | Optional |
 | **Inventory** | `com.loficostudios.melody-suite-inventory` | `https://github.com/Tonierbobcat/com.loficostudios.melody-suite-inventory.git` | Optional |
-| **Outfit** | `com.loficostudios.outfit` | `https://github.com/Tonierbobcat/com.loficostudios.outfit.git` | Optional |
-| **Dialogue** | `com.loficostudios.dialogue` | `https://github.com/Tonierbobcat/com.loficostudios.dialogue.git` | Requires [Ink](https://github.com/inkle/ink-unity-integration) |
+| **Outfit** | `com.loficostudios.melody-suite-outfit` | `https://github.com/Tonierbobcat/com.loficostudios.melody-suite-outfit.git` | Optional |
+| **Dialogue** | `com.loficostudios.melody-suite-dialogue` | `https://github.com/Tonierbobcat/com.loficostudios.melody-suite-dialogue.git` | Requires [Ink](https://github.com/inkle/ink-unity-integration) |
 
 ---
 
