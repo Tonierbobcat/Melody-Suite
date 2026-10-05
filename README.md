@@ -1,4 +1,4 @@
-# Melody-Unity-Suite
+# Melody-Suite
 
 ## Required Dependency
 
