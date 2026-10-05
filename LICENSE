@@ -1,21 +1,51 @@
-MIT License
+# MelodySuite License
 
-Copyright (c) 2026 MelodySuite
+Copyright © 2026 MelodySuite. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 1. Permission
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+MelodySuite grants permission to use the MelodySuite Unity packages ("Software") for personal and commercial projects.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+You may:
+
+* Use the Software in Unity projects.
+* Modify the Software for your own projects.
+* Use the Software in commercial games and applications.
+* Distribute compiled games and applications that contain the Software.
+
+## 2. Restrictions
+
+You may not:
+
+* Sell or redistribute the Software itself as a standalone product.
+* Repackage, rename, or redistribute the Software as your own Unity package.
+* Sell modified versions of the Software as standalone products.
+* Claim ownership or authorship of the original Software.
+* Remove or alter copyright or license notices included with the Software.
+* Use the Software to create a competing replacement or redistribution of MelodySuite.
+
+## 3. Ownership
+
+MelodySuite retains all rights, title, and ownership of the Software, including its source code, documentation, and original assets.
+
+This license does not transfer ownership of the Software to you.
+
+## 4. Warranty
+
+The Software is provided "AS IS", without warranty of any kind. MelodySuite is not responsible for any damage, loss of data, loss of profits, or other losses resulting from the use of the Software, to the maximum extent permitted by law.
+
+## 5. Termination
+
+This license terminates automatically if you violate its terms.
+
+Upon termination, you must stop using and distributing the Software, except for compiled games or applications that were already distributed in accordance with this license.
+
+## 6. Governing Law
+
+This license shall be governed by the laws of the State of Washington, United States.
+
+## 7. License
+
+By using the Software, you agree to the terms of this license.
+
+Copyright © 2026 MelodySuite. All rights reserved.
