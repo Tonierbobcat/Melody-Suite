@@ -16,7 +16,7 @@
 | **Inventory** | `com.loficostudios.melody-suite-inventory` | `https://github.com/Tonierbobcat/com.loficostudios.melody-suite-inventory.git` | Optional |
 | **Outfit** | `com.loficostudios.melody-suite-outfit` | `https://github.com/Tonierbobcat/com.loficostudios.melody-suite-outfit.git` | Optional |
 | **Dialogue** | `com.loficostudios.melody-suite-dialogue` | `https://github.com/Tonierbobcat/com.loficostudios.melody-suite-dialogue.git` | Requires [Ink](https://github.com/inkle/ink-unity-integration) |
-
+| **Match3** | `com.loficostudios.melody-suite-match3` | `https://github.com/Tonierbobcat/com.loficostudios.melody-suite-match3.git` | Optional |
 ---
 
 ## Installation
